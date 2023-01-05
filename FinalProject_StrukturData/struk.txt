@@ -1,0 +1,11 @@
+==================================================
+		PT. BANK MELETRE ASEEK
+	Waktu Penarikan : Mon Jul 25 10:44:05 2022
+==================================================
+
+Nama Member           : Chindy Arendika
+Jumlah Uang Diambil   : Rp. 500000
+Sisa Saldo Tabungan   : Rp. 550000
+
+=================================================
+	TERIMAKASIH TELAH MELAKUKAN TRANSAKSI
