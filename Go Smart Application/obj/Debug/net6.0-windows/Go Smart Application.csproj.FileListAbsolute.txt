@@ -1,0 +1,64 @@
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.exe
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.deps.json
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.runtimeconfig.json
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.dll
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.pdb
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.AssemblyReference.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Form1.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Properties.Resources.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.GenerateResource.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfoInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfo.cs
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.dll
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\refint\Go Smart Application.dll
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.pdb
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.genruntimeconfig.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\ref\Go Smart Application.dll
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FormKelasku.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.frmHome.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\UTS\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FrmJadwal.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.exe
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.deps.json
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.dll
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.pdb
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Form1.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FormKelasku.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.frmHome.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FrmJadwal.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.dll
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\refint\Go Smart Application.dll
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.pdb
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documents\Semester 3\Pemrograman Lanjut\Go Smart Application\Go Smart Application\obj\Debug\net6.0-windows\ref\Go Smart Application.dll
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.exe
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.deps.json
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.runtimeconfig.json
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.dll
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\bin\Debug\net6.0-windows\Go Smart Application.pdb
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.AssemblyReference.cache
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Form1.resources
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FormKelasku.resources
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.frmHome.resources
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FrmJadwal.resources
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.Properties.Resources.resources
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.GenerateResource.cache
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfoInputs.cache
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.AssemblyInfo.cs
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.dll
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\refint\Go Smart Application.dll
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.pdb
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go Smart Application.genruntimeconfig.cache
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\ref\Go Smart Application.dll
+D:\SEMESTER 3\UTS\Pemrograman Lanjut\Go Smart Application\obj\Debug\net6.0-windows\Go_Smart_Application.FrmSettings.resources
